@@ -1,8 +1,11 @@
 # 👋 Oii, eu sou a Júlia!
 
 🎓 Estudante de Engenharia de Computação na PUC Minas.
+
 💻 Atualmente trabalhando em: [Lembrar+](https://github.com/jujupoipo/LembrarPlus_Projeto) e [HiperCompras]().  
+
 🌱 Aprendendo mais sobre: Sistemas Embarcados, Flutter, Dart e desenvolvimento de apps móveis. 
+
 ✨ Interesses: Projetos em Hardware, tecnologia assistiva, e projetos com impacto social  
 
 ---
@@ -39,7 +42,7 @@
 ## 📫 Onde me encontrar
 - GitHub: [github.com/jujupoipo](https://github.com/jujupoipo)  
 - LinkedIn: [Júlia de Mello]()
-- Email: [jujupoipo20005@gmail.com]  
+- Email: jujupoipo20005@gmail.com 
 
 ---
 
