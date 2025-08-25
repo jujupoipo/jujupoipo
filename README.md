@@ -1,9 +1,9 @@
 # 👋 Oii, eu sou a Júlia!
 
-🎓 Estudante de Engenharia de Computação na PUC Minas. 
-💻 Atualmente trabalhando em: [Projeto atual ou tecnologias que você está aprendendo]  
-🌱 Aprendendo mais sobre: Flutter, Dart e desenvolvimento de apps móveis  
-✨ Interesses: UI/UX, tecnologia assistiva, e projetos com impacto social  
+🎓 Estudante de Engenharia de Computação na PUC Minas.
+💻 Atualmente trabalhando em: [Lembrar+](https://github.com/jujupoipo/LembrarPlus_Projeto) e [HiperCompras]().  
+🌱 Aprendendo mais sobre: Sistemas Embarcados, Flutter, Dart e desenvolvimento de apps móveis. 
+✨ Interesses: Projetos em Hardware, tecnologia assistiva, e projetos com impacto social  
 
 ---
 
@@ -21,22 +21,25 @@
 </p>
 
 ## 🛠️ Hardware
-- Arduino  
+- Arduino
+- Esp32
 - Sensores e módulos eletrônicos  
 - Protoboard e circuitos
 
 ---
 
 ## 📌 Projetos em destaque
-- [Lembrar+](https://github.com/ICEI-PUC-Minas-EC-TI/plu-ti1-2025-2-t1-g1-lembrar) – Aplicativo Flutter voltado para auxiliar idosos na comunicação.  
-- [Cafeteira]
+- [Lembrar+](https://github.com/jujupoipo/LembrarPlus_Projeto) – Aplicativo Flutter voltado para auxiliar idosos na comunicação com seus cuidadores.  
+- [Cafeteira](https://github.com/jujupoipo/IOT_ProjetoCafeteira) - Cafeteira automatizada controlada por comandos via protocolo MQTT, utilizando o broker mosquitto.org. 
+- [Sistema de Gerenciamento de Base de Dados](https://github.com/jujupoipo/TP_AED-sIII) - Sistema com foco em manipulação de arquivos binários, estruturas de dados avançadas, compressão, criptografia e algoritmos de busca.
+- [Carrinho Controle Remoto](https://github.com/jujupoipo/LIEC_CarrinhoControleRemoto) - Carrinho controlado remotamente por meio de um aplicativo criado no MIT App Inventor.
 
 ---
 
 ## 📫 Onde me encontrar
 - GitHub: [github.com/jujupoipo](https://github.com/jujupoipo)  
-- LinkedIn: [seu perfil aqui]  
-- Email: [seuemail@email.com]  
+- LinkedIn: [Júlia de Mello]()
+- Email: [jujupoipo20005@gmail.com]  
 
 ---
 
