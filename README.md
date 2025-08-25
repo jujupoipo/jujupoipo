@@ -41,7 +41,7 @@
 
 ## 📫 Onde me encontrar
 - GitHub: [github.com/jujupoipo](https://github.com/jujupoipo)  
-- LinkedIn: [Júlia de Mello]()
+- LinkedIn: [Júlia de Mello](https://www.linkedin.com/in/j%C3%BAlia-de-mello-teixeira-91b602276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: jujupoipo20005@gmail.com 
 
 ---
