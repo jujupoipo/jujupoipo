@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia de Computação na PUC Minas.
 
-💻 Atualmente trabalhando em: [Lembrar+](https://github.com/jujupoipo/LembrarPlus_Projeto) e [HiperCompras]().  
+💻 Atualmente trabalhando em: [Lembrar+](https://github.com/jujupoipo/LembrarPlus_Projeto) e [HiperCompras](https://github.com/jujupoipo/GPS-HiperCompras).  
 
 🌱 Aprendendo mais sobre: Sistemas Embarcados, Flutter, Dart e desenvolvimento de apps móveis. 
 
