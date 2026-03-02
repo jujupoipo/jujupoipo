@@ -4,7 +4,7 @@
 
 💻 Atualmente trabalhando em: [Lembrar+](https://github.com/jujupoipo/LembrarPlus2.0-Projeto)  
 
-🌱 Aprendendo mais sobre: Sistemas Embarcados, Flutter, Dart e desenvolvimento de apps móveis. 
+🌱 Aprendendo mais sobre: Sistemas Embarcados, Grafos, Sistemas Operacionais. 
 
 ✨ Interesses: Projetos em Hardware, tecnologia assistiva, e projetos com impacto social  
 
