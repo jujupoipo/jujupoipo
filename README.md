@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia de Computação na PUC Minas.
 
-💻 Atualmente trabalhando em: [Lembrar+](https://github.com/jujupoipo/LembrarPlus2.0-Projeto)  
+💻 Atualmente trabalhando em: [Lembrar+2.0](https://github.com/jujupoipo/LembrarPlus2.0-Projeto)  
 
 🌱 Aprendendo mais sobre: Sistemas Embarcados, Grafos, Sistemas Operacionais. 
 
